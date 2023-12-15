@@ -7,6 +7,6 @@
     "start": "babel-node index.js",
     "dev": "babel-node ./initialise-dev/initDevDB.js && nodemon --exec npm start"
   },
-  "author": "KylaF8",
+  "author": "Kylaf8",
   "license": "ISC"
 }
